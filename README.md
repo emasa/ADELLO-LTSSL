@@ -30,7 +30,8 @@ This repository is the official Pytorch implementation of **Flexible Distributio
 
 ## Notes
 
-**[2025/03/12]** 🔥 If you demand peak performance at any cost, don't miss **BalPoE**, our CVPR 2023 approach for long-tailed recognition—extending logit adjustment to multiple experts, delivering unbiased predictions and setting new SOTA; see our [paper](https://arxiv.org/abs/2206.05260) and [GitHub repo](https://github.com/emasa/BalPoE-CalibratedLT).
+**[2025/03/12]** 🔥 If you demand peak performance at any cost, don't miss **BalPoE**, our ensemble approach for long-tailed recognition—extending logit adjustment to multiple experts, delivering unbiased predictions and setting new SOTA; see our [CVPR 2023 
+ paper](https://arxiv.org/abs/2206.05260) and [GitHub repo](https://github.com/emasa/BalPoE-CalibratedLT).
 
 ## Overview
 
