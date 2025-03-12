@@ -28,6 +28,10 @@ by **Emanuel Sanchez Aimar, Nathaniel Helgesen, Yonghao Xu, Marco Kuhlmann, Mich
 
 This repository is the official Pytorch implementation of **Flexible Distribution Alignment: Towards Long-tailed Semi-supervised Learning with Proper Calibration** (ECCV 2024). 
 
+## Notes
+
+**[2025/03/12]** 🔥 If you demand peak performance at any cost, don't miss **BalPoE**, our CVPR 2023 approach for long-tailed recognition—extending logit adjustment to multiple experts, delivering unbiased predictions and setting new SOTA; see our [paper](https://arxiv.org/abs/2206.05260) and [GitHub repo](https://github.com/emasa/BalPoE-CalibratedLT).
+
 ## Overview
 
 <p align="center"> <img src='figures/adello_framework.png' align="center"> </p>
