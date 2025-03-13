@@ -132,6 +132,15 @@ If you find our work inspiring or use our codebase in your research, please cite
     pages="307--327",
     isbn="978-3-031-72949-2"
 }
+
+@InProceedings{SanchezAimar2023BalPoE_CalibratedLT,
+    author    = {Sanchez Aimar, Emanuel and Jonnarth, Arvi and Felsberg, Michael and Kuhlmann, Marco},
+    title     = {Balanced Product of Calibrated Experts for Long-Tailed Recognition},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {19967-19977}
+}
 ```
 
 <!-- ACKNOWLEDGMENTS -->
